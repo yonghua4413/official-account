@@ -1,6 +1,6 @@
 <?php
 
-namespace Yonghua4413\OfficialAccount\Auth;
+namespace YongHua4413\OfficialAccount\Auth;
 
 class ServiceProvider
 {
